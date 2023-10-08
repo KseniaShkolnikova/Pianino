@@ -16,6 +16,7 @@ namespace Пианино
                 ConsoleKeyInfo octava = Console.ReadKey();
                 if (octava.Key == ConsoleKey.Z)
                 {
+                    Console.WriteLine("Пока((");
                     break;
                 }
                 else if (octava.Key == ConsoleKey.F1)
@@ -51,10 +52,14 @@ namespace Пианино
                 ConsoleKeyInfo zvyk = Console.ReadKey();
                 if (zvyk.Key == ConsoleKey.L)
                 {
+                    Console.WriteLine();
+                    Console.WriteLine("Выбери актаву еще раз");
                     break;
                 }
                 else if (zvyk.Key == ConsoleKey.Z)
                 {
+                    Console.WriteLine();
+                    Console.WriteLine("Пока((");
                     Environment.Exit(0);
                 }
                 else
@@ -170,10 +175,14 @@ namespace Пианино
                 ConsoleKeyInfo zvykynikal = Console.ReadKey();
                 if (zvykynikal.Key == ConsoleKey.L)
                 {
+                    Console.WriteLine();
+                    Console.WriteLine("Выбери актаву еще раз");
                     break;
                 }
                 else if (zvykynikal.Key == ConsoleKey.Z)
                 {
+                    Console.WriteLine();
+                    Console.WriteLine("Пока((");
                     Environment.Exit(0);
                 }
                 else
