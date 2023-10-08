@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Пианино\Пианино\bin\Debug\net7.0\Пианино.exe
+C:\Users\user1\source\repos\Пианино\Пианино\bin\Debug\net7.0\Пианино.deps.json
+C:\Users\user1\source\repos\Пианино\Пианино\bin\Debug\net7.0\Пианино.runtimeconfig.json
+C:\Users\user1\source\repos\Пианино\Пианино\bin\Debug\net7.0\Пианино.dll
+C:\Users\user1\source\repos\Пианино\Пианино\bin\Debug\net7.0\Пианино.pdb
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\Пианино.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\Пианино.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\Пианино.AssemblyInfo.cs
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\Пианино.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\Пианино.dll
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\refint\Пианино.dll
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\Пианино.pdb
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\Пианино.genruntimeconfig.cache
+C:\Users\user1\source\repos\Пианино\Пианино\obj\Debug\net7.0\ref\Пианино.dll
